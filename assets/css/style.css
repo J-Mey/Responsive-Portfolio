@@ -218,10 +218,7 @@ input[type=submit] {
 }
 
 @media only screen and (max-width: 980px){
-  body {
-    background: red;
-  }
-
+ 
   #masthead {
     margin-bottom: -100px;
   }
@@ -236,10 +233,7 @@ input[type=submit] {
 }
 
 @media only screen and (max-width: 768px){
-  Body {
-    background: green;
-  }
-    
+ 
   #masthead {
     margin-bottom: -100px;
   }
@@ -255,10 +249,7 @@ input[type=submit] {
 }
 
 @media only screen and (max-width: 640px){
-  body{
-    background: blue;
-  }
-
+ 
   #masthead {
     position: static;
     margin-bottom: -100px;
